@@ -5,6 +5,14 @@ Attached are examples of data visualization leveraging seaborn, matplotlib, plot
 ## Seaborn
 Leveraging Seaborn, I created a jointgrid, distplot, boxplot, swarmplot, barchart, heatmap, and histogram using a Titanic themed dataframe. Below are the jointgrid, swarmplot, and heatmap visualizations I created:
 
+#### jointgrid
+![jointgrid](jointgrid.png)
+
+#### swarmplot
+![swarmplot](swarmplot.png)
+
+#### heatmap
+![heatmap](heatmap.png)
 
 ## Matplotlib
 
