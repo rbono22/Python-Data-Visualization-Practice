@@ -15,6 +15,8 @@ Leveraging Seaborn, I created a jointgrid, distplot, boxplot, swarmplot, barchar
 ![heatmap](heatmap.png)
 
 ## Matplotlib
+Below is an area plot of all the columns for just the rows up to 30 in my dataframe with legend displayed on the outside:
+![mtplotlib](mtplotlib.png)
 
 ## Plotly
 Leveraging plotly I used x,y, and z arrays to recreate a plot below to zoom in on the results I am most interested in:
