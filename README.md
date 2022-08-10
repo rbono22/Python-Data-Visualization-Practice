@@ -3,6 +3,8 @@
 Attached are examples of data visualization leveraging seaborn, matplotlib, plotly, and cufflinks. Below are images of some of my favorite
 
 ## Seaborn
+Leveraging Seaborn, I created a jointgrid, distplot, boxplot, swarmplot, barchart, heatmap, and histogram using a Titanic themed dataframe. Below are the jointgrid, swarmplot, and heatmap visualizations I created:
+
 
 ## Matplotlib
 
